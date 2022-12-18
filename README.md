@@ -12,7 +12,7 @@ where,
 <WIDTH> specifies the superscalar width of all pipeline stages, in terms of the maximum number of instructions in each pipeline stage
 <tracefile> is the path to trace file containing assembly code traces that are to be fed to the OOO processor.
 
-![micro-arch-to-be-modelled](/Dyn-Instr-Schl-OOO/main/assets/microarch-to-be-modelled.png?raw=true "microarchitecture to be modelled")
+![micro-arch-to-be-modelled](/assets/microarch-to-be-modelled.png?raw=true "microarchitecture to be modelled")
 
 The simulator reads a trace file in the following format:
 <PC> <operation type> <dest reg #> <src1 reg #> <src2 reg #>
